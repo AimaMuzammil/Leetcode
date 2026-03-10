@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AimaMuzammil/Leetcode/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AimaMuzammil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AimaMuzammil/Leetcode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AimaMuzammil/Leetcode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
