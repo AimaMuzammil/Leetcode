@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AimaMuzammil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/AimaMuzammil/Leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AimaMuzammil/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/AimaMuzammil/Leetcode/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AimaMuzammil/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
