@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AimaMuzammil/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AimaMuzammil/Leetcode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AimaMuzammil/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AimaMuzammil/Leetcode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
