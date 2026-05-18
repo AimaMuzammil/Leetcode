@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AimaMuzammil/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AimaMuzammil/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AimaMuzammil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AimaMuzammil/Leetcode/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AimaMuzammil/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AimaMuzammil/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AimaMuzammil/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AimaMuzammil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AimaMuzammil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
