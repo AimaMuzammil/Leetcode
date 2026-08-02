@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AimaMuzammil/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AimaMuzammil/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AimaMuzammil/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AimaMuzammil/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/AimaMuzammil/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AimaMuzammil/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AimaMuzammil/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
