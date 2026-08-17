@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AimaMuzammil/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AimaMuzammil/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AimaMuzammil/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AimaMuzammil/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AimaMuzammil/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AimaMuzammil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AimaMuzammil/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AimaMuzammil/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AimaMuzammil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AimaMuzammil/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AimaMuzammil/Leetcode/tree/master/0242-valid-anagram) |
 ## Queue
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -157,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AimaMuzammil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
