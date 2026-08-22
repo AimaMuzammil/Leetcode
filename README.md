@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AimaMuzammil/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AimaMuzammil/Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AimaMuzammil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AimaMuzammil/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AimaMuzammil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
