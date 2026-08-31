@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3046-split-the-array](https://github.com/AimaMuzammil/Leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AimaMuzammil/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0567-permutation-in-string) |
+| [3046-split-the-array](https://github.com/AimaMuzammil/Leetcode/tree/master/3046-split-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3046-split-the-array](https://github.com/AimaMuzammil/Leetcode/tree/master/3046-split-the-array) |
 ## String Matching
 |  |
 | ------- |
