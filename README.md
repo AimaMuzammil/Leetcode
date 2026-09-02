@@ -230,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AimaMuzammil/Leetcode/tree/master/0901-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/AimaMuzammil/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
