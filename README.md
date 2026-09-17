@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AimaMuzammil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3046-split-the-array](https://github.com/AimaMuzammil/Leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AimaMuzammil/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/AimaMuzammil/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/AimaMuzammil/Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
