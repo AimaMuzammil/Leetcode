@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AimaMuzammil/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AimaMuzammil/Leetcode/tree/master/0739-daily-temperatures) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AimaMuzammil/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AimaMuzammil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AimaMuzammil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AimaMuzammil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AimaMuzammil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AimaMuzammil/Leetcode/tree/master/0242-valid-anagram) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AimaMuzammil/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AimaMuzammil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AimaMuzammil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/AimaMuzammil/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/AimaMuzammil/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AimaMuzammil/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AimaMuzammil/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/AimaMuzammil/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AimaMuzammil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/AimaMuzammil/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
