@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3028-ant-on-the-boundary](https://github.com/AimaMuzammil/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/AimaMuzammil/Leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AimaMuzammil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3028-ant-on-the-boundary](https://github.com/AimaMuzammil/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/AimaMuzammil/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AimaMuzammil/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AimaMuzammil/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3028-ant-on-the-boundary](https://github.com/AimaMuzammil/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Backtracking
 |  |
 | ------- |
